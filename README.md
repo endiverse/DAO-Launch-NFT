@@ -1,7 +1,7 @@
 # ENDIVERSE.COM - https://endiverse.com
 
 # A UniVerse of Endless Meta-Spaces.
-# Curated, high-quality, "Starter projects" for YOUR MetaVerse and Web3!
+# Curated, high-quality, "Starter projects" for YOUR MetaVerse!
 # Join the EndiVerse DAO! 
 
 # DAO-Launch-NFT
