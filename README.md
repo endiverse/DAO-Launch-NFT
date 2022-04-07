@@ -15,6 +15,6 @@ https://gateway.pinata.cloud/ipfs/QmVZYj8RaXYDK6bvkHtEA6ucHZCWsyy85JBUG14N5H4Rvo
 
 Contract Published on Polygon: https://polygonscan.com/address/0xd8e2274ce3027f753a323facf211aa914199a90a
 
-47 NFTs MINTED!
+50 NFTs MINTED!
 NFTs on OpenSea: https://opensea.io/collection/endiverse-dao
 
