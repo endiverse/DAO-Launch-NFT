@@ -1,6 +1,6 @@
 # ENDIVERSE.COM - https://endiverse.com
 
-# A UniVerse of Endless Meta-Spaces.
+# An Endless UniVerse of Meta-Spaces.
 # Curated, high-quality, "Starter projects" for YOUR MetaVerse!
 # Join the EndiVerse DAO! 
 
